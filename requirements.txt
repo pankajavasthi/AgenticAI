@@ -24,3 +24,9 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+
+# Vertex AI with Langchain Integration
+google-cloud-aiplatform
+langchain-google-vertexai
+google-generativeai
+google-cloud
